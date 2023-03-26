@@ -130,12 +130,12 @@ namespace SlotMachineJukebox
             return BitConverter.GetBytes(toConvert);
         }
 
-        private byte[] GetBytes(char[] toConvert)
+        private static byte[] GetBytes(char[] toConvert)
         {
             return Encoding.ASCII.GetBytes(toConvert);
         }
 
-        private byte[] GetBytes(string toConvert)
+        private static byte[] GetBytes(string toConvert)
         {
             return Encoding.ASCII.GetBytes(toConvert);
         }
