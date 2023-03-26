@@ -1,0 +1,15 @@
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\SlotMachineJukebox.exe
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\SlotMachineJukebox.deps.json
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\SlotMachineJukebox.runtimeconfig.json
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\SlotMachineJukebox.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\SlotMachineJukebox.pdb
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.csproj.AssemblyReference.cache
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.AssemblyInfoInputs.cache
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.AssemblyInfo.cs
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.csproj.CoreCompileInputs.cache
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\refint\SlotMachineJukebox.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.pdb
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.genruntimeconfig.cache
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\ref\SlotMachineJukebox.dll
