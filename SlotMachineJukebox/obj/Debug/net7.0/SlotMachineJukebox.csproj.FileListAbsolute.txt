@@ -13,3 +13,8 @@ D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\n
 D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.pdb
 D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.genruntimeconfig.cache
 D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\ref\SlotMachineJukebox.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\Melanchall_DryWetMidi_Native32.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\Melanchall_DryWetMidi_Native64.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\Melanchall_DryWetMidi_Native64.dylib
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\bin\Debug\net7.0\Melanchall.DryWetMidi.dll
+D:\projects\SlotMachineJukeBox\SlotMachineJukebox\SlotMachineJukebox\obj\Debug\net7.0\SlotMachineJukebox.csproj.CopyComplete
